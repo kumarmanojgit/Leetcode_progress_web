@@ -57,6 +57,7 @@ border-radius: 5px;
   color: white;
   font-weight: 700;
   background: conic-gradient(#124127 var(--progress-degree,0%),#446a51 0%);
+  flex-direction: column;
   
 }
 .circle span{
